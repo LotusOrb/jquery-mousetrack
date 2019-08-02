@@ -18,7 +18,7 @@ $(element).rndmousetrack(mode,localstorename,viewcolor);
 
 ### Mode
 * 'track' = Record all the mouse movement
-* 'view' = view all recorded data
+* 'view' = view recorded data it's relative to the storename
 * 'clean' = clean client localstorage
 
 ### localstorename
