@@ -1,6 +1,6 @@
 # [rndMousetrack](https://randasyf.com/) &middot; ![GitHub license](https://img.shields.io/badge/License-GNU%20V.3-blue) ![Version](https://img.shields.io/badge/Version-V%200.0.1-red)
 
-## #⚠⚠⚠ For Testing on client porpuse only# ##
+## ⚠ For Testing Purpose only, not applicable on production  ##
 Rnd Mousetrack is Jquery Plugin for tracking mouse on usability testing
 ## Feature
 * **Easy To use:**
