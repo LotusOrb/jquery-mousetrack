@@ -1,0 +1,13 @@
+{
+  "name": "jquery-mousetrack",
+  "version": "1.0.0",
+  "description": "Track user mouse for usability testing",
+  "main": "index.js",
+  "repository": {"url": "https://github.com/LotusOrb/jquery-mousetrack"},
+  "scripts": {
+    "start": "echo \"start\""
+  },
+  "keywords": ["jquery","jquery plugin","mouse track"],
+  "author": "lotusorb <working.rsyafridamara@gmail.com>",
+  "license": "MIT"
+}
