@@ -2,6 +2,7 @@
   "name": "jquery-mousetrack",
   "version": "1.0.0",
   "description": "Track user mouse for usability testing",
+  "type": "module",
   "main": "index.js",
   "repository": {
     "url": "https://github.com/LotusOrb/jquery-mousetrack"
@@ -20,6 +21,7 @@
     "jquery": "^3.7.1"
   },
   "devDependencies": {
-    "vite": "^6.0.11"
+    "vite": "^6.0.11",
+    "typescript": "^5.7.3"
   }
 }
