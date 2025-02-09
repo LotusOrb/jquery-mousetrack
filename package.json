@@ -8,7 +8,8 @@
     "url": "https://github.com/LotusOrb/jquery-mousetrack"
   },
   "scripts": {
-    "start": "echo \"start\""
+    "start": "vite",
+    "build": "vite build"
   },
   "keywords": [
     "jquery",
@@ -21,7 +22,9 @@
     "jquery": "^3.7.1"
   },
   "devDependencies": {
+    "@types/node": "^22.13.1",
+    "typescript": "^5.7.3",
     "vite": "^6.0.11",
-    "typescript": "^5.7.3"
+    "vite-plugin-dts": "^4.5.0"
   }
 }

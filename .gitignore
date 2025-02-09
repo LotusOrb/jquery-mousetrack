@@ -1,3 +1,7 @@
 # Node Related
 node_modules
 package-lock.json
+
+# Cache And Dist
+dist/*
+!dist.gitkeep
